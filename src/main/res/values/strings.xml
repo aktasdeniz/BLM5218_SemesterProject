@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alisveris Odev</string>
+    <string name="title_home">Alışveriş listesi ekle</string>
+    <string name="title_dashboard">AlisverisListelerim</string>
+</resources>
